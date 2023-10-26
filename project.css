@@ -1,0 +1,13 @@
+h1 {
+  color: white;
+  background-color: black;
+  text-align: center;
+  padding: 5px, 5px, 5px, 5px;
+  margin-top: 10px;
+}
+logo {
+  background-color: blue;
+}
+body {
+  background-color: rgb(230, 240, 231);
+}
