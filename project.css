@@ -22,10 +22,13 @@ img {
   margin: 0;
 }
 
-p {
+.fashion {
   background: linear-gradient(
     109.6deg,
     rgb(252, 255, 26) 34.9%,
     rgb(66, 240, 233) 82.5%
   );
+  font-size: small;
+  margin: 4px;
+  color: black;
 }
