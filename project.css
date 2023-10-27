@@ -1,6 +1,9 @@
+body {
+  background-color: rgb(230, 240, 231);
+}
 h1 {
   color: white;
-  background-color: rgb(22, 1, 1);
+  background-color: black;
   text-align: center;
   margin: 30px 300px 30px 300px;
   padding: 50px 20px 50px 20px;
@@ -12,6 +15,17 @@ img {
   border: 20px solid;
   border-radius: 50%;
 }
-body {
-  background-color: rgb(230, 240, 231);
+
+.brand {
+  font-weight: lighter;
+  font-size: 20px;
+  margin: 0;
+}
+
+p {
+  background: linear-gradient(
+    109.6deg,
+    rgb(252, 255, 26) 34.9%,
+    rgb(66, 240, 233) 82.5%
+  );
 }
